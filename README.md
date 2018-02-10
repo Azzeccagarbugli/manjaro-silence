@@ -7,4 +7,8 @@ My flat GRUB2 Manjaro theme.
 
 ### Author ###
 
-Filippo Ghibellini
+@Radeox
+
+### Original theme ###
+
+Arch Silence by Filippo Ghibellini
